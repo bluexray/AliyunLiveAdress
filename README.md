@@ -5,6 +5,6 @@
 - .net core 3.1
 
 ## notice
-1. 更新代码中的pull key和push key
-2. 更新代码中的域名
-3. 更改程序代码中的AppName和Stream Name
+1. 更换代码中的pull key和push key
+2. 更换代码中的域名
+3. 更换程序代码中的AppName和Stream Name
